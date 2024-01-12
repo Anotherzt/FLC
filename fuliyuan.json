@@ -40,7 +40,9 @@
    "type": 1,
    "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/at/xml",
    "searchable": 1,
-   "quickSearch": 1
+   "changeable": 1,
+   "categories": [
+   "传媒机构","国产精品","高清无码","高清欧美","SM","高清伦理","动漫","人兽","AI换脸","网曝黑料","美女主播","麻豆传媒","水果派","探花系列","人妖","台湾SWAG","重口味","国漫3D","国产","乱伦","SPA","网红少女","UP精品","VR","恐怖AV","少女破处"]
 },
 {
    "key": "老鸭",
