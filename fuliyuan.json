@@ -93,7 +93,7 @@
 {
    "key": "*猫资源",
    "name": "🈴猫资源",
-   "type": 0,
+   "type": 1,
    "api": "https://api.maozyapi.com/inc/apijson_vod.php"
 },
 {
