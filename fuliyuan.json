@@ -38,20 +38,12 @@
    "key": "chengren",
    "name": "🈵成人影视",
    "type": 1,
-   "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/at/xml",
-   "searchable": 1,
-   "changeable": 1,
-   "categories": [
-   "传媒机构","国产精品","高清无码","高清欧美","SM","高清伦理","动漫","人兽","AI换脸","网曝黑料","美女主播","麻豆传媒","水果派","探花系列","人妖","台湾SWAG","重口味","国漫3D","国产","乱伦","SPA","网红少女","UP精品","VR","恐怖AV","少女破处"]
-},
+   "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/at/xml"
 {
    "key": "老鸭",
    "name": "🈵老鸭资源",
    "type": 1,
-   "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
+   "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml"
 },
 {
    "key": "博天堂",
@@ -65,71 +57,49 @@
    "key": "*大地资源",
    "name": "🏆大地资源",
    "type": 0,
-   "api": "https://dadiapi.com/api.php",
-   "searchable": 0,
-   "quickSearch": 0
+   "api": "https://dadiapi.com/api.php"
 },
 {
    "key": "美少女",
    "name": "🈴美少女",
    "type": 0,
-   "api": "https://www.msnii.com/api/xml.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
+   "api": "https://www.msnii.com/api/xml.php"
 },
 {
    "key": "*白嫖资源",
    "name": "🈴白嫖资源",
    "type": 0,
-   "api": "https://www.kxgav.com/api/xml.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
+   "api": "https://www.kxgav.com/api/xml.php"
 },
 {
    "key": "*淫水机资源",
    "name": "🈴淫水机",
    "type": 0,
-   "api": "https://www.xrbsp.com/api/xml.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
+   "api": "https://www.xrbsp.com/api/xml.php"
 },
 {
    "key": "*小湿妹资源",
    "name": "🈴小湿妹",
    "type": 0,
-   "api": "https://www.afasu.com/api/xml.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
+   "api": "https://www.afasu.com/api/xml.php"
 },
 {
    "key": "*香奶儿资源",
    "name": "🈴香奶儿",
    "type": 0,
-   "api": "https://www.gdlsp.com/api/xml.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
+   "api": "https://www.gdlsp.com/api/xml.php"
 },
 {
    "key": "*猫资源",
    "name": "🈴猫资源",
    "type": 1,
-   "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-   "searchable": 0,
-   "quickSearch": 0
+   "api": "https://api.maozyapi.com/inc/apijson_vod.php"
 },
 {
    "key": "鸡坤资源",
    "name": "🔞鸡坤资源",
    "type": 1,
-   "api": "https://jkunzyapi.com/api.php/provide/vod/at/xml",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
+   "api": "https://jkunzyapi.com/api.php/provide/vod/at/xml"
 },
 {
    "key": "玉兔专场",
