@@ -91,22 +91,10 @@
    "api": "https://www.gdlsp.com/api/xml.php"
 },
 {
-   "key": "*猫资源",
-   "name": "🈴猫资源",
-   "type": 0,
-   "api": "https://api.maozyapi.com/inc/apijson_vod.php"
-},
-{
    "key": "鸡坤资源",
    "name": "🔞鸡坤资源",
    "type": 0,
    "api": "https://jkunzyapi.com/api.php/provide/vod/at/xml"
-},
-{
-   "key": "玉兔专场",
-   "name": "🚸玉兔采集",
-   "type": 0,
-   "api": "https://apiyutu.com/api.php/provide/vod/at/xml"
 },
 {
    "key": "色猫",
@@ -144,12 +132,6 @@
    "精选独家",
    "貧乳小奶",
    "探花系列"]
-},
-{
-   "key": "91md.me",
-   "name": "🈶91麻豆",
-   "type": 0,
-   "api": "http://91md.me/api.php/provide/vod/at/xml"
 },
 {
    "key": "cjmygzy.com",
@@ -222,12 +204,6 @@
    "name": "🈶色狼资源",
    "type": 0,
    "api": "https://slapibf.com/api.php/provide/vod/at/xml"
-},
-{
-   "key": "花魁",
-   "name": "🈶花魁影视",
-   "type": 0,
-   "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php"
 },
 {
    "key": "11",
