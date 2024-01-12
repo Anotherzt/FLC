@@ -37,13 +37,13 @@
 {
    "key": "chengren",
    "name": "🈵成人影视",
-   "type": 1,
+   "type": 0,
    "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/at/xml"
 },
 {
    "key": "老鸭",
    "name": "🈵老鸭资源",
-   "type": 1,
+   "type": 0,
    "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml"
 },
 {
@@ -93,13 +93,13 @@
 {
    "key": "*猫资源",
    "name": "🈴猫资源",
-   "type": 1,
+   "type": 0,
    "api": "https://api.maozyapi.com/inc/apijson_vod.php"
 },
 {
    "key": "鸡坤资源",
    "name": "🔞鸡坤资源",
-   "type": 1,
+   "type": 0,
    "api": "https://jkunzyapi.com/api.php/provide/vod/at/xml"
 },
 {
@@ -148,7 +148,7 @@
 {
    "key": "91md.me",
    "name": "🈶91麻豆",
-   "type": 1,
+   "type": 0,
    "api": "http://91md.me/api.php/provide/vod/at/xml"
 },
 {
@@ -160,7 +160,7 @@
 {
    "key": "api.sexnguon.com",
    "name": "🈶色果影视",
-   "type": 1,
+   "type": 0,
    "api": "http://api.sexnguon.com/api.php/provide/vod/at/xml"
 },
 {
@@ -172,73 +172,73 @@
 {
    "key": "kkzy.me",
    "name": "🈶KK资源",
-   "type": 1,
+   "type": 0,
    "api": "https://kkzy.me/api.php/provide/vod/at/xml"
 },
 {
    "key": "奥斯卡",
    "name": "🈶奥斯卡影视",
-   "type": 1,
+   "type": 0,
    "api": "https://aosikazy.com/api.php/provide/vod/at/xml"
 },
 {
    "key": "立勃",
    "name": "🈶立勃影视",
-   "type": 1,
+   "type": 0,
    "api": "https://lbapi9.com/api.php/provide/vod/at/xml"
 },
 {
    "key": "番海",
    "name": "🈶番海影视",
-   "type": 1,
+   "type": 0,
    "api": "http://fhapi9.com/api.php/provide/vod/at/xml"
 },
 {
    "key": "逼痒",
    "name": "🈶逼痒影视",
-   "type": 1,
+   "type": 0,
    "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
 },
 {
    "key": "黄哥",
    "name": "🈶黄海影视",
-   "type": 1,
+   "type": 0,
    "api": "https://hghhh.com/api.php/provide/vod/at/xml"
 },
 {
    "key": "TT",
    "name": "🈶TT资源",
-   "type": 1,
+   "type": 0,
    "api": "https://apittzy.com/api.php/provide/vod/at/xml"
 },
 {
    "key": "155",
    "name": "🈶155资源",
-   "type": 1,
+   "type": 0,
    "api": "https://155api.com/api.php/provide/vod/at/xml"
 },
 {
    "key": "色狼",
    "name": "🈶色狼资源",
-   "type": 1,
+   "type": 0,
    "api": "https://slapibf.com/api.php/provide/vod/at/xml"
 },
 {
    "key": "花魁",
    "name": "🈶花魁影视",
-   "type": 1,
+   "type": 0,
    "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php"
 },
 {
    "key": "11",
    "name": "🈶11影视",
-   "type": 1,
+   "type": 0,
    "api": "http://api.11bat.com/api.php/provide/vod/at/xml"
 },
 {
    "key": "奶吸",
    "name": "🈶奶吸影视",
-   "type": 1,
+   "type": 0,
    "api": "https://naixxzy.com/api.php/provide/vod/at/xml"
 },
 {
