@@ -62,7 +62,7 @@
 },
 {
    "key": "*名优",
-   "name": "🏆JAV名优",
+   "name": "🔞JAV名优",
    "type": 0,
    "api": "http://mygzycj.com/api.php?ac=list"
 },
@@ -141,7 +141,7 @@
 },
 {
    "key": "猫资源",
-   "name": "🚸猫资源",
+   "name": "🔞猫资源",
    "type": 1,
    "api": "https://api.maozyapi.com/inc/apijson_vod.php",
    "searchable": 0,
@@ -194,6 +194,37 @@
    "name": "🈶逼痒影视",
    "type": 0,
    "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
+},
+{
+   "key":"环亚",
+   "name":"*🔞环亚影城",
+   "type":0,
+   "api":"http://wmcj8.com/inc/sapi.php",
+   "searchable":0,
+   "quickSearch":0},
+{
+   "key":"6688",
+   "name":"*🔞6688资源",
+   "type":1,
+   "api":"http://m.7777688.com/inc/apijson.php",
+   "searchable":0,
+   "quickSearch":0
+},
+{
+   "key":"玖玖资源",
+   "name":"*🔞玖玖资源",
+   "type":0,
+   "api":"http://99zywcj.com/inc/sapi.php?ac=videolist",
+   "searchable":0,
+   "quickSearch":0
+},
+{
+   "key":"墨云",
+   "name":"*🔞墨云资源",
+   "type":0,
+   "api":"http://cjmygzy.com/inc/sapi.php?ac=videolist",
+   "searchable":0,
+   "quickSearch":0
 },
 {
    "key": "黄哥",
