@@ -140,6 +140,14 @@
    "探花系列"]
 },
 {
+   "key": "猫资源",
+   "name": "🚸猫资源",
+   "type": 1,
+   "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+   "searchable": 0,
+   "quickSearch": 0
+},
+{
    "key": "cjmygzy.com",
    "name": "🈶菜鸡资源",
    "type": 0,
