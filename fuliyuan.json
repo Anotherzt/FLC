@@ -140,14 +140,6 @@
    "探花系列"]
 },
 {
-   "key": "猫资源",
-   "name": "🔞猫资源",
-   "type": 1,
-   "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-   "searchable": 0,
-   "quickSearch": 0
-},
-{
    "key": "cjmygzy.com",
    "name": "🈶菜鸡资源",
    "type": 0,
@@ -200,13 +192,6 @@
    "name":"*🔞环亚影城",
    "type":0,
    "api":"http://wmcj8.com/inc/sapi.php",
-   "searchable":0,
-   "quickSearch":0},
-{
-   "key":"6688",
-   "name":"*🔞6688资源",
-   "type":1,
-   "api":"http://m.7777688.com/inc/apijson.php",
    "searchable":0,
    "quickSearch":0
 },
