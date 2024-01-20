@@ -248,6 +248,18 @@
    "api": "https://naixxzy.com/api.php/provide/vod/at/xml"
 },
 {
+   "key": "91av",
+   "name": "🔞91AV",
+   "type": 0,
+   "api": "https://91av.cyou/api.php/provide/vod/at/json"
+},
+{
+   "key": "91麻豆",
+   "name": "🔞91麻豆",
+   "type": 0,
+   "api": "https://91md.me/api.php/provide/vod/at/json"
+},
+{
   "key":"警示",
   "name":"鄒先生警示！",
   "type":0,
