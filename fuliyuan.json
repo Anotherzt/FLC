@@ -250,26 +250,20 @@
 {
    "key": "麻花",
    "name": "🔞麻花资源",
-   "type": 1,
-   "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8"
-},
-{
-   "key": "天美",
-   "name": "🔞天美传媒",
-   "type": 1,
-   "api": "http://www.tianmei.pw/api.php/provide/vod/from/m3u8"
+   "type": 0,
+   "api": "http://wuxu.cc/api.php/provide/vod/at/xml"
 },
 {
    "key": "甜蜜",
    "name": "🔞甜蜜资源",
-   "type": 1,
-   "api": "https://tmyy.cc/api.php/provide/vod/from/m3u8"
+   "type": 0,
+   "api": "https://tmyy.cc/api.php/provide/vod/at/xml"
 },
 {
    "key": "出嫁",
    "name": "🔞出嫁影视",
-   "type": 1,
-   "api": "http://chujia.cc/api.php/provide/vod/from/m3u8"
+   "type": 0,
+   "api": "http://chujia.cc/api.php/provide/vod/at/xml"
 },
 {
    "key": "草榴",
