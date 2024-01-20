@@ -302,12 +302,6 @@
    "api": "https://haiwai.siwazyw.org/api.php/provide/vod/at/xml"
 },
 {
-   "key": "色猫",
-   "name": "🔞色猫资源",
-   "type": 1,
-   "api": "https://caiji.semaozy.net/inc/apijson_vod.php"
-},
-{
    "key": "葡萄",
    "name": "🔞葡萄资源",
    "type": 1,
@@ -330,6 +324,84 @@
    "name": "🔞蛋蛋情色",
    "type": 1,
    "api": "http://156.249.29.8/inc/apijson_vod.php"
+},
+{
+   "key": "萝莉",
+   "name": "🔞萝莉社区",
+   "type": 0,
+   "api": "https://api.g14o.cc/api.php/provide/vod/at/xml"
+},
+{
+   "key": "博民",
+   "name": "🔞博民影视",
+   "type": 0,
+   "api": "https://www.bominzy.com/api.php/provide/vod/at/xml"
+},
+{
+   "key": "桃桃",
+   "name": "🔞桃桃影视",
+   "type": 0,
+   "api": "https://mtav.art/api.php/provide/vod/at/xml"
+},
+{
+   "key": "8天",
+   "name": "🔞8天影视",
+   "type": 0,
+   "api": "https://8day.icu/api.php/provide/vod/at/xml"
+},
+{
+   "key": "美亚",
+   "name": "🔞美亚影视",
+   "type": 0,
+   "api": "https://tmav.art/api.php/provide/vod/at/xml"
+},
+{
+   "key": "色网",
+   "name": "🔞色色资源",
+   "type": 0,
+   "api": "https://sezy.website/api.php/provide/vod/at/xml"
+},
+{
+   "key": "湿园",
+   "name": "🔞湿园影视",
+   "type": 0,
+   "api": "https://xxavs.com/api.php/provide/vod/at/xml"
+},
+{
+   "key": "优异",
+   "name": "🔞优异影视",
+   "type": 0,
+   "api": "https://a.uezy.pw/api.php/provide/vod/at/xml"
+},
+{
+   "key": "色逼",
+   "name": "🔞小色逼",
+   "type": 0,
+   "api": "https://apilsbzy1.com/api.php/provide/vod/at/xml"
+},
+{
+   "key": "橘猫",
+   "name": "🔞橘猫影视",
+   "type": 0,
+   "api": "https://to.to-long.com/api.php/provide/vod/at/xml"
+},
+{
+   "key": "橘猫",
+   "name": "🔞花魁影视",
+   "type": 1,
+   "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php"
+},
+{
+   "key": "玉兔",
+   "name": "🔞玉兔资源",
+   "type": 0,
+   "api": "https://apiyutu.com/api.php/provide/vod/at/xml"
+},
+{
+   "key": "湿裤",
+   "name": "🔞湿裤资源",
+   "type": 0,
+   "api": "https://ziyuan.skm3u8.com/api.php/provide/vod/at/xml"
 },
 {
   "key":"警示",
