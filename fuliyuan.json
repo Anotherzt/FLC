@@ -392,12 +392,6 @@
    "api": "https://apiyutu.com/api.php/provide/vod/at/xml"
 },
 {
-   "key": "湿裤",
-   "name": "🔞湿裤资源",
-   "type": 1,
-   "api": "https://ziyuan.skm3u8.com/api.php/provide/vod/at/xml"
-},
-{
   "key":"警示",
   "name":"鄒先生警示！",
   "type":0,
