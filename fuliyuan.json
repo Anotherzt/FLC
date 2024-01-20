@@ -248,16 +248,88 @@
    "api": "https://naixxzy.com/api.php/provide/vod/at/xml"
 },
 {
-   "key": "WUXU",
-   "name": "🔞舞旭资源",
-   "type": 1,
+   "key": "麻花",
+   "name": "🔞麻花资源",
+   "type": 0,
    "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8"
 },
 {
-   "key": "91麻豆",
-   "name": "🔞91麻豆",
+   "key": "天美",
+   "name": "🔞天美传媒",
+   "type": 0,
+   "api": "http://www.tianmei.pw/api.php/provide/vod/from/m3u8"
+},
+{
+   "key": "甜蜜",
+   "name": "🔞甜蜜资源",
+   "type": 0,
+   "api": "https://tmyy.cc/api.php/provide/vod/from/m3u8"
+},
+{
+   "key": "出嫁",
+   "name": "🔞出嫁影视",
+   "type": 0,
+   "api": "http://chujia.cc/api.php/provide/vod/from/m3u8"
+},
+{
+   "key": "草榴",
+   "name": "🔞草榴资源",
+   "type": 0,
+   "api": "https://www.caoliuzyw.com/api.php/provide/vod"
+},
+{
+   "key": "快爱",
+   "name": "🔞快爱AV",
+   "type": 0,
+   "api": "http://kuaiavzy.com/api.php/provide/vod/at/xml"
+},
+{
+   "key": "猫咪",
+   "name": "🔞猫咪资源",
    "type": 1,
-   "api": "https://91md.me/api.php/provide/vod/at/json"
+   "api": "https://api.maozyapi.com/inc/apijson_vod.php"
+},
+{
+   "key": "丝袜",
+   "name": "🔞丝袜AV",
+   "type": 0,
+   "api": "https://www.siwazyw.tv/api.php/provide/vod/at/xml"
+},
+{
+   "key": "丝袜2",
+   "name": "🔞丝袜2AV",
+   "type": 0,
+   "api": "https://haiwai.siwazyw.org/api.php/provide/vod/at/xml"
+},
+{
+   "key": "色猫",
+   "name": "🔞色猫资源",
+   "type": 1,
+   "api": "https://caiji.semaozy.net/inc/apijson_vod.php"
+},
+{
+   "key": "葡萄",
+   "name": "🔞葡萄资源",
+   "type": 1,
+   "api": "https://caiji.putaozyw.net/inc/apijson_vod.php"
+},
+{
+   "key": "滴滴",
+   "name": "🔞滴滴资源",
+   "type": 0,
+   "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml"
+},
+{
+   "key": "雪豹",
+   "name": "🔞雪豹资源",
+   "type": 0,
+   "api": "https://api.xbapi.cc/api.php/provide/vod/at/xml"
+},
+{
+   "key": "蛋蛋",
+   "name": "🔞蛋蛋情色",
+   "type": 1,
+   "api": "http://156.249.29.8/inc/apijson_vod.php"
 },
 {
   "key":"警示",
