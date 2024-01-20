@@ -392,6 +392,18 @@
    "api": "https://apiyutu.com/api.php/provide/vod/at/xml"
 },
 {
+  "key": "易看",
+  "name": "🎗易看资源",
+  "type": 0,
+  "api": "https://api.yikanapi.com/api.php/provide/vod/at/xml"
+},
+{
+  "key": "魔都",
+  "name": "🎗魔都动漫",
+  "type": 0,
+  "api": "https://www.moduzy.com/api.php/provide/vod/at/xml"
+},
+{
   "key":"警示",
   "name":"鄒先生警示！",
   "type":0,
