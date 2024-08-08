@@ -1,5 +1,5 @@
 {
-  "spider":"clan://localhost/tvbox/FLC/jar/h.jar",
+  "spider":"./jar/h.jar",
   "sites":[
 {
   "key": "js豆瓣1",
