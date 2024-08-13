@@ -864,6 +864,33 @@
   "ext":"./json/我爱AV.json"
 },
 {
+  "key":"to.to-long.com",
+  "name":"🌍橘猫资源",
+  "type":0,
+  "api":"https://to.to-long.com/api.php/provide/vod/at/xml/",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
+  "key":"vnzyz.com",
+  "name":"🌍越南影视",
+  "type":0,
+  "api":"https://vnzyz.com/api.php/provide/vod/at/xml/",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
+  "key":"vnzyz.com",
+  "name":"🌍优优资源",
+  "type":0,
+  "api":"https://jk1.yycmszywapi.cc/api.php/provide/vod/at/xml/",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
   "key": "纤纤影视",
   "name": "⛳纤纤影视",
   "type": 3,
@@ -898,6 +925,31 @@
   "分类标题": ".html\">&&</a[不包含:视频二#综艺娱乐]",
   "分类ID": "href=\"/L/&&.html\"",
   "分类url": "https://m.xian372.top/L/{cateId}_{catePg}.html[https://m.xian372.top/L/{cateId}.html]"}
+},
+{
+  "key":"天堂岛",
+  "name":"⛳天堂岛",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "./jar/yg_hl.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+  "主页url":"https://www.ttdao666.buzz",
+  "数组":"<div class=\"item&&</a",
+  "图片":"data-original=\"&&\"",
+  "标题":"title=\"&&\"",
+  "副标题":"<em>&&</em",
+  "简介":"description\" content=\"&&剧情",
+  "链接":"https://www.ttdao666.buzz/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
+  "跳转播放链接":"var player_*\"url\":\"&&\"",
+  "搜索模式":"1",
+  "搜索url":"https://www.ttdao666.buzz/vod/search/page/{pg}/wd/{wd}/",
+  "分类数组":"<a&&/a",
+  "分类标题":">&&<",
+  "分类ID":"/vod/type/id/&&/",
+  "分类url":"https://www.ttdao666.buzz/vod/type/id/{cateId}/page/{catePg}/;;z"}
 },
 {
   "key":"警示",
